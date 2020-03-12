@@ -33,4 +33,10 @@ su - leyou
 cd /home/leyou/elasticsearch/bin
 ./elasticsearch
 
+<<<<<<< HEAD
 ddd
+=======
+
+dddddd
+0000
+>>>>>>> dev
