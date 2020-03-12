@@ -32,3 +32,5 @@ linuxÏµÍ³Æô¶¯elasticsearchÃüÁî
 su - leyou
 cd /home/leyou/elasticsearch/bin
 ./elasticsearch
+
+ddd
